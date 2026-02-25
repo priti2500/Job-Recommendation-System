@@ -1,0 +1,5 @@
+streamlit
+spacy
+PyPDF2
+python-dotenv
+groq
